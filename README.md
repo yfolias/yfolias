@@ -28,9 +28,10 @@ As mentioned in my introduction, my interests revolve around security but just t
 - [x] CI/CD pipelines
 - [x] Code
 - [x] Microservices
+- [x] Linux
 - [x] Various cloud vendors
 
-Some scripting is also a necessary part of the story. Even though I was always writing scripts in Bash or Python, lately I've managed to fall in love with Golang and I was able to build some pretty cool stuff which I will start publishing in due course.
+And of course, scripting, which is a necessary part of the story. Even though I was always writing scripts in Bash or Python, lately I've managed to fall in love with Golang and I was able to build some pretty cool stuff which I will start publishing in due course.
 
 ## Projects
 Coming soon
